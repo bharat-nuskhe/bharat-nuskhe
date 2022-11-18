@@ -1,0 +1,16 @@
+{
+	"banner": {
+		"image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Yoga_Teacher_Trainng_in_India_-_Yog_Amritam_Rishikesh_India.jpg",
+		"text": "योग"
+	},
+	"sections": [
+		"section1",
+		"section2"
+	],
+	"section1": {
+		"title": "भक्ति मार्ग"
+	},
+	"section2": {
+		"title": "रोग उपचार"
+	}
+}
