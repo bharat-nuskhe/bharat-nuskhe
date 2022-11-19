@@ -1,5 +1,5 @@
 {
-	"title": "नुस्खे",
+	"title": "प्राचीन जीवनशैली",
 	"banner": {
 		"play": "banner",
 		"image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Yoga_Teacher_Trainng_in_India_-_Yog_Amritam_Rishikesh_India.jpg",
@@ -58,7 +58,8 @@
 				{
 					"play": "banner",
 					"text": "योग",
-					"color": "#FFAB40"
+					"color": "#FFAB40",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Yoga_Teacher_Trainng_in_India_-_Yog_Amritam_Rishikesh_India.jpg"
 				},
 				{
 					"play": "banner",
