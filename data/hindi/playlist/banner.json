@@ -2,12 +2,24 @@
 	"title": "यह प्लेलिस्ट का शीर्षक है",
 	"videos": [
 		{
-			"title": "केसरिया - ब्रह्मास्त्र",
+			"title": "केसरिया | ब्रह्मास्त्र",
 			"youtube": "BddP6PYo2gs"
 		},
 		{
 			"title": "गुलाबी | पूरा गाना | शुद्ध देसी रोमांस",
 			"youtube": "E4ZJxhyAaH8"
+		},
+		{
+			"title": "तेरा होने लगा हूँ | अजब प्रेम की ग़ज़ब कहानी",
+			"youtube": "rTuxUAuJRyY"
+		},
+		{
+			"title": "हंसी | हमारी अधूरी कहानी",
+			"youtube": "oyaudgo5_8Y"
+		},
+		{
+			"title": "बोल तो ना जरा | अजहर",
+			"youtube": "EpEraRui1pc"
 		}
 	]
 }
