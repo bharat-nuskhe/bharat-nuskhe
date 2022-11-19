@@ -1,9 +1,13 @@
 {
-	"title": "This is playlist title",
+	"title": "यह प्लेलिस्ट का शीर्षक है",
 	"videos": [
 		{
-			"title": "Kesariya - Brahmāstra",
+			"title": "केसरिया - ब्रह्मास्त्र",
 			"youtube": "BddP6PYo2gs"
+		},
+		{
+			"title": "गुलाबी | पूरा गाना | शुद्ध देसी रोमांस",
+			"youtube": "E4ZJxhyAaH8"
 		}
 	]
 }
