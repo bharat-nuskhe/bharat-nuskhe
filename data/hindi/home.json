@@ -1,16 +1,71 @@
 {
 	"title": "नुस्खे",
 	"banner": {
+		"play": "banner",
 		"image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Yoga_Teacher_Trainng_in_India_-_Yog_Amritam_Rishikesh_India.jpg",
 		"text": "योग",
-		"play": "banner"
+		"color": "#FFAB40"
 	},
 	"sections": [
 		{
-			"title": "भक्ति मार्ग"
+			"title": "भक्ति मार्ग",
+			"plays": [
+				{
+					"play": "banner",
+					"text": "योग",
+					"color": "#FFAB40"
+				},
+				{
+					"play": "banner",
+					"text": "योग",
+					"color": "#5BB9C2"
+				},
+				{
+					"play": "banner",
+					"text": "योग",
+					"color": "#5BB9C2"
+				},
+				{
+					"play": "banner",
+					"text": "योग",
+					"color": "#FFAB40"
+				},
+				{
+					"play": "banner",
+					"text": "योग",
+					"color": "#FFAB40"
+				}
+			]
 		},
 		{
-			"title": "रोग उपचार"
+			"title": "रोग उपचार",
+			"plays": [
+				{
+					"play": "banner",
+					"text": "योग",
+					"color": "#FFAB40"
+				},
+				{
+					"play": "banner",
+					"text": "योग",
+					"color": "#5BB9C2"
+				},
+				{
+					"play": "banner",
+					"text": "योग",
+					"color": "#5BB9C2"
+				},
+				{
+					"play": "banner",
+					"text": "योग",
+					"color": "#FFAB40"
+				},
+				{
+					"play": "banner",
+					"text": "योग",
+					"color": "#FFAB40"
+				}
+			]
 		}
 	]
 }
