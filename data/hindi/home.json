@@ -8,36 +8,6 @@
 	},
 	"sections": [
 		{
-			"title": "भक्ति मार्ग",
-			"plays": [
-				{
-					"play": "banner",
-					"text": "योग",
-					"color": "#FFAB40"
-				},
-				{
-					"play": "banner",
-					"text": "योग",
-					"color": "#5BB9C2"
-				},
-				{
-					"play": "banner",
-					"text": "योग",
-					"color": "#5BB9C2"
-				},
-				{
-					"play": "banner",
-					"text": "योग",
-					"color": "#FFAB40"
-				},
-				{
-					"play": "banner",
-					"text": "योग",
-					"color": "#FFAB40"
-				}
-			]
-		},
-		{
 			"title": "रोग उपचार",
 			"plays": [
 				{
@@ -60,6 +30,36 @@
 					"text": "योग",
 					"color": "#FFAB40",
 					"image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Yoga_Teacher_Trainng_in_India_-_Yog_Amritam_Rishikesh_India.jpg"
+				},
+				{
+					"play": "banner",
+					"text": "योग",
+					"color": "#FFAB40"
+				}
+			]
+		},
+		{
+			"title": "भक्ति मार्ग",
+			"plays": [
+				{
+					"play": "banner",
+					"text": "योग",
+					"color": "#FFAB40"
+				},
+				{
+					"play": "banner",
+					"text": "योग",
+					"color": "#5BB9C2"
+				},
+				{
+					"play": "banner",
+					"text": "योग",
+					"color": "#5BB9C2"
+				},
+				{
+					"play": "banner",
+					"text": "योग",
+					"color": "#FFAB40"
 				},
 				{
 					"play": "banner",
